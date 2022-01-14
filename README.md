@@ -1,4 +1,4 @@
-Car Price Prediction Application.
+## Car Price Prediction Application.
 
 Stable and currently deployed on Heroku! 
 
